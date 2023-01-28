@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Blood Life</string>
+    <string name="Donation_type">donationtype</string>
+    <string name="Find_Center">Find center</string>
+
+    <string name="Blood">Blood</string>
+    <string name="Plasma">Plasma</string>
+
+    <string-array name="donation_type">
+        <item>@string/Blood</item>
+        <item>@string/Plasma</item>
+
+    </string-array>
+
+    <string name="NBTCN">National Blood Transfusion Center-Nairobi</string>
+    <string name="Thika">Thika Level Five- Thika</string>
+    <string name="Nakuru">Regional Blood Center-Nakuru</string>
+    <string name="Lancet">Pathologist Lancet Kenya-Nairobi</string>
+    <string name="Eldoret">Mtrh Transfusion Center- Eldoret</string>
+    <string name="scrollview">timesetting</string>
+
+
+    <string-array name="find_center">
+        <item>@string/NBTCN</item>
+        <item>@string/Eldoret</item>
+        <item>@string/Thika</item>
+        <item>@string/Lancet</item>
+        <item>@string/Nakuru</item>
+    </string-array>
+
+
+</resources>

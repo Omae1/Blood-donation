@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF0000</color>
+    <color name="colorPrimaryVariant">#FF0000</color>
+    <color name="colorOnPrimary">#000000</color>
+    <color name="colorRed">#D31F1F</color>
+    <color name="colorPurple">#800080</color>
+    <color name="TEAL">#6100796B</color>
+<color name="teal">#06877A</color>
+</resources>
